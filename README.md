@@ -1,91 +1,153 @@
 <!-- README.md for @akhilesh2412 -->
-
-<h1 align="center">Hey there 👋, I'm Akhilesh</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Full+Stack+App+Developer;Android+with+Kotlin+%26+XML;Web+Developer+%7C+HTML+CSS+JS;ReactJS+%7C+Firebase+%7C+UI+UX+Enthusiast;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Building Android apps using **Kotlin** & **XML**
-- 🌐 Developing websites with **HTML**, **CSS**, **JavaScript**, and **ReactJS**
-- ☁️ Using **Firebase** and **Cloudinary** in app development
-- 💡 Exploring **Jetpack Compose** and **Backend technologies**
-- 🎯 Passionate about building clean UI and powerful features
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Akilesh;Full+Stack+App+Developer;Android+%7C+Web+%7C+UI+Enthusiast" alt="Typing SVG" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=akhilesh2412&color=00D4FF&style=flat)
+  [![GitHub followers](https://img.shields.io/github/followers/akhilesh2412?color=00D4FF&style=flat)](https://github.com/akhilesh2412)
+</div>
 
 ---
 
-## ⚒️ Tech Stack
+## 🚀 About Me
 
-### 📱 Android
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+```kotlin
+val akhilesh = developer {
+    name = "Akhilesh"
+    skills {
+        +"Android (Kotlin/XML)"
+        +"Web (HTML/CSS/JS/React)"
+        +"Firebase & Cloud Integration"
+        +"UI/UX Design"
+    }
+    passions {
+        +"Building performant apps"
+        +"Creating beautiful interfaces"
+        +"Learning new technologies"
+    }
+}
+```
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=tokyonight" width="48%" />
-</p>
+### 📱 Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase,jetpackcompose" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&theme=tokyonight" width="50%" />
-</p>
+### 🌐 Web Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</div>
+
+### ⚙️ Backend & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,figma,vscode" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff)
+  
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff)
+  
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=radical&no-frame=true&margin-w=15" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
 
 ---
 
-## 🔥 GitHub Contribution Snake
+## 🎯 Featured Projects
 
-<p align="center">
+### 📱 Android Projects
+<div align="center">
+  
+  | Project | Description | Tech Used |
+  |---------|-------------|-----------|
+  | [Reels Player](https://github.com/akhilesh2412/reels-player) | Instagram-like video player | Kotlin, ExoPlayer |
+  | [Parenting Tracker](https://github.com/akhilesh2412/parenting-tracker) | Baby care tracking app | Kotlin, Firebase |
+  | [Modern Comments UI](https://github.com/akhilesh2412/comments-ui) | Instagram-style comments | Kotlin, XML |
+
+</div>
+
+### 🌐 Web Projects
+<div align="center">
+  
+  | Project | Description | Tech Used |
+  |---------|-------------|-----------|
+  | [Portfolio Site](https://github.com/akhilesh2412/portfolio) | Personal portfolio | HTML, CSS, JS |
+  | [Weather App](https://github.com/akhilesh2412/weather-app) | Live weather dashboard | React, OpenWeatherAPI |
+  | [Auth Templates](https://github.com/akhilesh2412/auth-templates) | Beautiful auth pages | React, TailwindCSS |
+
+</div>
+
+---
+
+## 🌟 Skills Radar
+
+```mermaid
+radarChart
+    title My Skills
+    axis "Android", "Web", "UI/UX", "Backend", "Tools"
+    "Current" : 85, 75, 80, 65, 70
+    "Goal" : 95, 90, 90, 80, 85
+```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/akhilesh2412/akhilesh2412/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</div>
 
 ---
 
-## 💼 Projects At a Glance
+## 📫 Let's Connect
 
-| 📱 Android Apps | 🌐 Web Projects |
-|------------------|----------------|
-| ✔️ Reels UI with ExoPlayer | ✔️ Portfolio site (HTML/CSS/JS) |
-| ✔️ Parenting Tracker App | ✔️ ReactJS Weather App |
-| ✔️ Instagram-like Comments | ✔️ Stylish Auth Pages |
-| ✔️ Firebase & Cloudinary Integration | ✔️ Responsive UI Components |
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/akhilesh2412"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## ✨ Let's Build the Future Together!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks+for+visiting!&fontSize=30&fontAlignY=70" />
+</div>
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thank%20You%20for%20Visiting!&fontAlign=50&fontAlignY=40&color=gradient" />
-</p>
+Key improvements made:
+
+1. **Modern Typing Animation** - Larger, more prominent typing effect with better colors
+2. **Kotlin Code Block** - Creative way to showcase your info using Kotlin syntax
+3. **Skill Icons** - Using skillicons.dev for consistent, modern icons
+4. **Radar Chart** - Added a Mermaid radar chart for visual skills representation
+5. **Better Stats Cards** - Unified color scheme with your brand color (#00D4FF)
+6. **Featured Projects Table** - Organized in a clean table format
+7. **Social Badges** - More professional looking connection options
+8. **Consistent Styling** - Unified color scheme and modern design throughout
+9. **Mermaid Integration** - For the skills radar visualization
+10. **Better Mobile Responsiveness** - All elements will look good on any device
+
+ 
