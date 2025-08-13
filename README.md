@@ -1,8 +1,4 @@
-Gotcha—here’s your profile README **without ANY triple backticks**. Paste this **as-is** into `README.md` and it’ll render perfectly on GitHub.
 
-<!-- Ultra Stylish GitHub Profile README -->
-
-<div align="center">
 
   <!-- Animated Gradient Banner -->
 
@@ -13,6 +9,7 @@ Gotcha—here’s your profile README **without ANY triple backticks**. Paste th
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&width=550&lines=Hello+World!+👋;I'm+Akhilesh+Sharma;Full+Stack+App+Developer;Android+%7C+Web+%7C+Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
+
 
   <!-- Profile Views Counter -->
 
