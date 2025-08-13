@@ -23,7 +23,7 @@
 
 ## 🚀 **About Me**
 
-```kotlin
+kotlin
 class Developer {
     val name = "Akhilesh Sharma"
     val role = "Full Stack Developer"
@@ -44,7 +44,7 @@ class Developer {
 }
 
 val me = Developer()
-```
+
 
 ---
 
@@ -137,14 +137,14 @@ val me = Developer()
 
 ## 📈 **Weekly Development Breakdown**
 
-```mermaid
+mermaid
 pie
     title Weekly Development Time
     "Android Development" : 45
     "Web Projects" : 30
     "UI/UX Design" : 15
     "Learning New Tech" : 10
-```
+
 
 ---
 
