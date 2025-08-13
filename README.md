@@ -2,7 +2,6 @@
 
   <!-- Animated Gradient Banner -->
 
-  <img src="https://github.com/akhilesh2412/akhilesh2412/blob/main/assets/github-profile-header.gif?raw=true" alt="header" width="100%"/>
 
   <!-- Dynamic Typing SVG -->
 
